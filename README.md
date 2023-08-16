@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/gauravsingh138/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauravsingh138/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21742326/gaurav-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21742326/gaurav-singh" height="30" width="40" /></a>
 <a href="https://instagram.com/_gauravsingh_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gauravsingh_x" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucmdxnk2bugggplvc4qbnxiw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucmdxnk2bugggplvc4qbnxiw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/@pegasusop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@pegasusop" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
