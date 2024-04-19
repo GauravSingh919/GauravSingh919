@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Cinepolis India](https://cinepolisnew.enpointe.io/)
+- 🔭 I’m currently working on [Enpointe IO](https://www.enpointe.io/)
 
 - 🌱 I’m currently learning **NextJS , Tailwind CSS , ReactJS , Redux**
 
