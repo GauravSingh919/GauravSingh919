@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Enpointe IO](https://www.enpointe.io/)
 
-- 🌱 I’m currently learning **NextJS , Tailwind CSS , ReactJS , Redux**
+- 🌱 I’m currently learning **NextJS , Tailwind CSS , ReactJS , Redux, VueJS, Prisma**
 
 - 💬 Ask me about **React, Tailwind CSS , NextJS**
 
